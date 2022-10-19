@@ -1,0 +1,9 @@
+.screen {
+    width: fit-content;
+    border: 1px solid gray;
+    min-height: 300px;
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+    margin: 20px;
+}

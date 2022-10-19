@@ -1,0 +1,21 @@
+.item {
+    width: 100%;
+    color: black;
+    cursor: pointer;
+    padding: 10px 20px;
+}
+.list__item > ul > li > p {
+    padding-left: 30px;
+    width: 100%;
+}
+.list__item ul > li > p{
+    border: none;
+    width: 100%;
+}
+.list__item {
+    width: 100%;
+}
+.active {
+    color: white;
+    background: gray;
+}
